@@ -32,7 +32,7 @@ I work at the intersection of traditional engineering and modern data tools.
 ---
 
 ### Languages
-🇪🇸 Spanish · 🇬🇧 English (B2) · 🇳🇱 Dutch (A2)
+🇪🇸 Spanish · 🇬🇧 English (B1) · 🇳🇱 Dutch (A2)
 
 ---
 
