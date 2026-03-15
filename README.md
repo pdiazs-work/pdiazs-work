@@ -1,4 +1,3 @@
-## Hi there 👋
 # Patricio Díaz
 
 **Industrial Engineer · Data & Operations · Chile**
